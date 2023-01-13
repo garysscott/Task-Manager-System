@@ -19,7 +19,7 @@ Follow these steps:
     o reg_user — that is called when the user selects ‘r’ to register a user.    
     o add_task — that is called when a user selects ‘a’ to add a new task.    
     o view_all — that is called when users type ‘va’ to view all the tasks listed in ‘tasks.txt’.    
-    o  view_mine — that is called when users type ‘vm’ to view all the tasks that have been assigned to them.
+    o view_mine — that is called when users type ‘vm’ to view all the tasks that have been assigned to them.
     
   ● Modify the function called reg_user to make sure that you don’t duplicate usernames when you add a new user to user.txt. If a user tries to add a username that already exists in user.txt, provide a relevant error message and allow them to try to add a user with a different username.
   

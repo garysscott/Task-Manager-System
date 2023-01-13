@@ -1,0 +1,32 @@
+
+ _______________________________________________________________________
+|                                                                       |
+|                    U S E R    S T A T I S T I C S                     |
+|                                                                       |
+ _______________________________________________________________________
+ 
+The total number of tasks: 4
+ _______________________________________________________________________
+Tasks assigned to users:
+
+admin		3		
+test		1		
+jeff		0		
+ _______________________________________________________________________
+Percentage of total tasks assigned per user:
+
+User: admin		Percentage of tasks assigned: 75%
+User: test		Percentage of tasks assigned: 25%
+User: jeff		Percentage of tasks assigned: 0%
+ _______________________________________________________________________
+Percentage of completed tasks per user:
+
+User: admin		Percentage of completed tasks: 100%
+User: test		Percentage of completed tasks: 0%
+User: jeff		Percentage of completed tasks: 0%
+ _______________________________________________________________________
+Percentage of incomplete tasks per user:
+
+User: admin		Percentage of incomplete tasks: 67%
+User: test		Percentage of incomplete tasks: 100%
+User: jeff		Percentage of incomplete tasks: 100%

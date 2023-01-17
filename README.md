@@ -2,7 +2,7 @@
 
 <h2>Project Description</h2>
 
-I created this project in relation to a task I had been set on my software engineering bootcamp.
+I created this project in relation to a task I had been set on my Software Engineering Bootcamp.
 
 The program uses lists, functions, reading / writing to files, and string handling.
 

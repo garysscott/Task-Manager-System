@@ -6,7 +6,7 @@ I created this project in relation to a task I had been set on my software engin
 
 The program uses lists, functions, reading / writing to files, and string handling.
 
-Here was the task I was set:
+Here was the task I was set by HyperionDev:
 
 <h2>Compulsory Task</h2>
 

@@ -8,7 +8,7 @@ The program uses lists, functions, reading / writing to files, and string handli
 
 Here was the task I was set by HyperionDev:
 
-<h2>Compulsory Task</h2>
+<h2>Compulsory Task</h2> 
 
 Follow these steps:
 
